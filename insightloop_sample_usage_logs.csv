@@ -1,0 +1,882 @@
+user_id,timestamp,action_type,feature_used,session_duration,step_number
+user_1,2024-01-01,onboarding_start,,136,1
+user_1,2024-01-02,feedback_submitted,,481,2
+user_1,2024-01-03,signup,,229,3
+user_1,2024-01-04,subscription,,345,4
+user_1,2024-01-05,feature_x_demo,,473,5
+user_2,2024-01-01,signup,,400,1
+user_2,2024-01-02,feedback_submitted,,206,2
+user_2,2024-01-03,subscription,,291,3
+user_3,2024-01-01,feedback_submitted,,489,1
+user_3,2024-01-02,feature_x_demo,Feature Y,73,2
+user_3,2024-01-03,signup,,525,3
+user_4,2024-01-01,signup,,519,1
+user_4,2024-01-02,onboarding_start,,145,2
+user_4,2024-01-03,feature_z_used,,499,3
+user_4,2024-01-04,feedback_submitted,,35,4
+user_4,2024-01-05,feature_x_demo,Feature X,181,5
+user_4,2024-01-06,subscription,,288,6
+user_5,2024-01-01,feature_x_demo,,354,1
+user_5,2024-01-02,feature_y_used,Feature Z,106,2
+user_5,2024-01-03,feature_z_used,Feature Z,381,3
+user_5,2024-01-04,signup,,469,4
+user_5,2024-01-05,subscription,,442,5
+user_5,2024-01-06,onboarding_start,,523,6
+user_6,2024-01-01,subscription,,404,1
+user_6,2024-01-02,feature_x_demo,Feature Z,580,2
+user_6,2024-01-03,feature_z_used,Feature Y,120,3
+user_6,2024-01-04,feedback_submitted,,491,4
+user_7,2024-01-01,feature_x_demo,Feature X,285,1
+user_7,2024-01-02,signup,,470,2
+user_7,2024-01-03,subscription,,476,3
+user_7,2024-01-04,feature_z_used,Feature Y,266,4
+user_8,2024-01-01,feature_y_used,Feature Z,231,1
+user_8,2024-01-02,feedback_submitted,,202,2
+user_8,2024-01-03,signup,,394,3
+user_8,2024-01-04,feature_x_demo,Feature X,507,4
+user_8,2024-01-05,onboarding_start,,55,5
+user_8,2024-01-06,subscription,,171,6
+user_9,2024-01-01,onboarding_start,,513,1
+user_9,2024-01-02,feature_z_used,Feature X,406,2
+user_9,2024-01-03,feature_x_demo,Feature Z,433,3
+user_10,2024-01-01,feedback_submitted,,47,1
+user_10,2024-01-02,feature_z_used,Feature Z,62,2
+user_10,2024-01-03,feature_x_demo,Feature Y,517,3
+user_11,2024-01-01,feedback_submitted,,561,1
+user_11,2024-01-02,signup,,476,2
+user_11,2024-01-03,onboarding_start,,19,3
+user_11,2024-01-04,subscription,,232,4
+user_11,2024-01-05,feature_y_used,Feature Z,517,5
+user_11,2024-01-06,feature_x_demo,Feature Z,412,6
+user_12,2024-01-01,feature_z_used,Feature X,589,1
+user_12,2024-01-02,feature_x_demo,,255,2
+user_12,2024-01-03,signup,,578,3
+user_13,2024-01-01,onboarding_start,,50,1
+user_13,2024-01-02,signup,,539,2
+user_13,2024-01-03,feature_y_used,Feature Y,174,3
+user_13,2024-01-04,feature_x_demo,Feature X,257,4
+user_13,2024-01-05,subscription,,100,5
+user_13,2024-01-06,feature_z_used,Feature Y,592,6
+user_14,2024-01-01,signup,,345,1
+user_14,2024-01-02,feature_x_demo,Feature X,520,2
+user_14,2024-01-03,onboarding_start,,362,3
+user_15,2024-01-01,feature_y_used,Feature X,273,1
+user_15,2024-01-02,onboarding_start,,373,2
+user_15,2024-01-03,feature_x_demo,Feature X,470,3
+user_15,2024-01-04,feature_z_used,Feature Z,425,4
+user_15,2024-01-05,subscription,,332,5
+user_16,2024-01-01,feedback_submitted,,511,1
+user_16,2024-01-02,onboarding_start,,456,2
+user_16,2024-01-03,feature_z_used,Feature Y,578,3
+user_16,2024-01-04,subscription,,282,4
+user_17,2024-01-01,feedback_submitted,,95,1
+user_17,2024-01-02,subscription,,127,2
+user_17,2024-01-03,feature_y_used,Feature Z,16,3
+user_17,2024-01-04,feature_z_used,Feature X,234,4
+user_17,2024-01-05,signup,,580,5
+user_18,2024-01-01,feature_z_used,Feature X,430,1
+user_18,2024-01-02,feedback_submitted,,261,2
+user_18,2024-01-03,feature_y_used,Feature Z,453,3
+user_18,2024-01-04,onboarding_start,,217,4
+user_18,2024-01-05,feature_x_demo,Feature Y,198,5
+user_18,2024-01-06,subscription,,137,6
+user_19,2024-01-01,feature_x_demo,,525,1
+user_19,2024-01-02,signup,,158,2
+user_19,2024-01-03,feedback_submitted,,215,3
+user_19,2024-01-04,subscription,,138,4
+user_19,2024-01-05,onboarding_start,,201,5
+user_19,2024-01-06,feature_y_used,Feature X,340,6
+user_20,2024-01-01,signup,,525,1
+user_20,2024-01-02,onboarding_start,,161,2
+user_20,2024-01-03,feature_z_used,Feature Y,162,3
+user_20,2024-01-04,feedback_submitted,,503,4
+user_20,2024-01-05,feature_x_demo,,565,5
+user_21,2024-01-01,subscription,,429,1
+user_21,2024-01-02,feedback_submitted,,312,2
+user_21,2024-01-03,onboarding_start,,277,3
+user_22,2024-01-01,feature_x_demo,Feature X,318,1
+user_22,2024-01-02,subscription,,268,2
+user_22,2024-01-03,feedback_submitted,,467,3
+user_22,2024-01-04,feature_z_used,Feature Z,51,4
+user_22,2024-01-05,feature_y_used,Feature Z,174,5
+user_22,2024-01-06,signup,,23,6
+user_23,2024-01-01,onboarding_start,,434,1
+user_23,2024-01-02,feature_z_used,Feature Y,436,2
+user_23,2024-01-03,subscription,,118,3
+user_23,2024-01-04,feedback_submitted,,268,4
+user_23,2024-01-05,signup,,241,5
+user_23,2024-01-06,feature_y_used,Feature X,126,6
+user_24,2024-01-01,subscription,,177,1
+user_24,2024-01-02,feature_x_demo,,175,2
+user_24,2024-01-03,feedback_submitted,,594,3
+user_24,2024-01-04,feature_y_used,,412,4
+user_24,2024-01-05,onboarding_start,,291,5
+user_25,2024-01-01,feedback_submitted,,474,1
+user_25,2024-01-02,onboarding_start,,484,2
+user_25,2024-01-03,feature_z_used,Feature X,389,3
+user_25,2024-01-04,feature_y_used,Feature Z,36,4
+user_25,2024-01-05,signup,,52,5
+user_25,2024-01-06,feature_x_demo,Feature Y,244,6
+user_26,2024-01-01,feedback_submitted,,298,1
+user_26,2024-01-02,feature_y_used,Feature X,495,2
+user_26,2024-01-03,feature_z_used,,467,3
+user_26,2024-01-04,signup,,530,4
+user_26,2024-01-05,onboarding_start,,561,5
+user_26,2024-01-06,subscription,,206,6
+user_27,2024-01-01,feature_x_demo,Feature X,113,1
+user_27,2024-01-02,feedback_submitted,,51,2
+user_27,2024-01-03,signup,,294,3
+user_28,2024-01-01,subscription,,205,1
+user_28,2024-01-02,onboarding_start,,267,2
+user_28,2024-01-03,signup,,175,3
+user_29,2024-01-01,feature_z_used,Feature Y,584,1
+user_29,2024-01-02,feature_y_used,Feature X,337,2
+user_29,2024-01-03,subscription,,302,3
+user_29,2024-01-04,feedback_submitted,,169,4
+user_29,2024-01-05,signup,,504,5
+user_29,2024-01-06,onboarding_start,,400,6
+user_30,2024-01-01,feature_y_used,Feature X,552,1
+user_30,2024-01-02,feedback_submitted,,422,2
+user_30,2024-01-03,feature_z_used,,539,3
+user_30,2024-01-04,onboarding_start,,520,4
+user_30,2024-01-05,feature_x_demo,,50,5
+user_30,2024-01-06,subscription,,34,6
+user_31,2024-01-01,signup,,368,1
+user_31,2024-01-02,onboarding_start,,65,2
+user_31,2024-01-03,subscription,,589,3
+user_31,2024-01-04,feature_z_used,Feature X,204,4
+user_32,2024-01-01,feature_z_used,,68,1
+user_32,2024-01-02,feature_x_demo,,458,2
+user_32,2024-01-03,feedback_submitted,,278,3
+user_32,2024-01-04,feature_y_used,,67,4
+user_33,2024-01-01,feature_x_demo,Feature Y,283,1
+user_33,2024-01-02,signup,,384,2
+user_33,2024-01-03,onboarding_start,,120,3
+user_34,2024-01-01,subscription,,488,1
+user_34,2024-01-02,feature_z_used,Feature Y,131,2
+user_34,2024-01-03,feedback_submitted,,141,3
+user_34,2024-01-04,onboarding_start,,407,4
+user_34,2024-01-05,feature_y_used,Feature X,72,5
+user_35,2024-01-01,subscription,,286,1
+user_35,2024-01-02,feature_x_demo,Feature Z,203,2
+user_35,2024-01-03,feature_z_used,,461,3
+user_35,2024-01-04,feature_y_used,Feature Y,595,4
+user_35,2024-01-05,signup,,261,5
+user_36,2024-01-01,feature_y_used,Feature Y,83,1
+user_36,2024-01-02,subscription,,61,2
+user_36,2024-01-03,onboarding_start,,108,3
+user_36,2024-01-04,feedback_submitted,,467,4
+user_36,2024-01-05,signup,,218,5
+user_36,2024-01-06,feature_z_used,,232,6
+user_37,2024-01-01,feature_x_demo,Feature Y,37,1
+user_37,2024-01-02,feature_z_used,,536,2
+user_37,2024-01-03,feedback_submitted,,114,3
+user_38,2024-01-01,feature_z_used,Feature X,339,1
+user_38,2024-01-02,feature_y_used,,530,2
+user_38,2024-01-03,signup,,30,3
+user_38,2024-01-04,feedback_submitted,,350,4
+user_38,2024-01-05,feature_x_demo,,272,5
+user_39,2024-01-01,signup,,559,1
+user_39,2024-01-02,feature_z_used,Feature Y,441,2
+user_39,2024-01-03,subscription,,282,3
+user_39,2024-01-04,onboarding_start,,591,4
+user_39,2024-01-05,feedback_submitted,,431,5
+user_39,2024-01-06,feature_y_used,Feature Z,182,6
+user_40,2024-01-01,signup,,267,1
+user_40,2024-01-02,feedback_submitted,,513,2
+user_40,2024-01-03,onboarding_start,,49,3
+user_40,2024-01-04,feature_x_demo,Feature X,104,4
+user_40,2024-01-05,feature_y_used,Feature Z,432,5
+user_40,2024-01-06,subscription,,129,6
+user_41,2024-01-01,feedback_submitted,,390,1
+user_41,2024-01-02,feature_y_used,Feature Z,434,2
+user_41,2024-01-03,feature_x_demo,Feature X,291,3
+user_41,2024-01-04,signup,,408,4
+user_41,2024-01-05,subscription,,471,5
+user_41,2024-01-06,feature_z_used,Feature Z,206,6
+user_42,2024-01-01,feature_z_used,Feature X,51,1
+user_42,2024-01-02,feedback_submitted,,383,2
+user_42,2024-01-03,subscription,,539,3
+user_42,2024-01-04,feature_x_demo,Feature Y,293,4
+user_42,2024-01-05,signup,,231,5
+user_42,2024-01-06,onboarding_start,,287,6
+user_43,2024-01-01,onboarding_start,,410,1
+user_43,2024-01-02,subscription,,459,2
+user_43,2024-01-03,feature_y_used,,247,3
+user_43,2024-01-04,feature_x_demo,Feature Y,90,4
+user_43,2024-01-05,feature_z_used,Feature Z,279,5
+user_43,2024-01-06,feedback_submitted,,469,6
+user_44,2024-01-01,feature_z_used,Feature Z,113,1
+user_44,2024-01-02,subscription,,410,2
+user_44,2024-01-03,signup,,39,3
+user_44,2024-01-04,feedback_submitted,,483,4
+user_44,2024-01-05,onboarding_start,,498,5
+user_44,2024-01-06,feature_x_demo,,579,6
+user_45,2024-01-01,feature_x_demo,Feature Z,412,1
+user_45,2024-01-02,signup,,237,2
+user_45,2024-01-03,feature_y_used,Feature Z,147,3
+user_46,2024-01-01,feature_y_used,Feature Z,506,1
+user_46,2024-01-02,feature_z_used,Feature Y,267,2
+user_46,2024-01-03,signup,,244,3
+user_47,2024-01-01,feedback_submitted,,531,1
+user_47,2024-01-02,feature_y_used,Feature Y,43,2
+user_47,2024-01-03,feature_z_used,Feature Z,179,3
+user_48,2024-01-01,onboarding_start,,231,1
+user_48,2024-01-02,subscription,,315,2
+user_48,2024-01-03,feature_x_demo,Feature Z,146,3
+user_48,2024-01-04,feedback_submitted,,84,4
+user_48,2024-01-05,feature_y_used,Feature X,266,5
+user_48,2024-01-06,signup,,429,6
+user_49,2024-01-01,feature_y_used,,140,1
+user_49,2024-01-02,signup,,465,2
+user_49,2024-01-03,subscription,,187,3
+user_49,2024-01-04,feature_z_used,Feature X,234,4
+user_49,2024-01-05,onboarding_start,,72,5
+user_49,2024-01-06,feature_x_demo,Feature Z,490,6
+user_50,2024-01-01,feature_z_used,Feature X,205,1
+user_50,2024-01-02,feature_y_used,,522,2
+user_50,2024-01-03,onboarding_start,,383,3
+user_51,2024-01-01,feature_x_demo,Feature Y,187,1
+user_51,2024-01-02,subscription,,163,2
+user_51,2024-01-03,signup,,94,3
+user_52,2024-01-01,onboarding_start,,546,1
+user_52,2024-01-02,signup,,455,2
+user_52,2024-01-03,subscription,,416,3
+user_53,2024-01-01,feature_y_used,,273,1
+user_53,2024-01-02,feature_x_demo,,485,2
+user_53,2024-01-03,onboarding_start,,26,3
+user_53,2024-01-04,feature_z_used,,344,4
+user_53,2024-01-05,feedback_submitted,,372,5
+user_54,2024-01-01,signup,,192,1
+user_54,2024-01-02,feature_x_demo,,554,2
+user_54,2024-01-03,feature_z_used,,55,3
+user_55,2024-01-01,feature_x_demo,Feature Y,475,1
+user_55,2024-01-02,onboarding_start,,572,2
+user_55,2024-01-03,feature_y_used,Feature Z,561,3
+user_55,2024-01-04,feature_z_used,,267,4
+user_55,2024-01-05,subscription,,404,5
+user_56,2024-01-01,feedback_submitted,,265,1
+user_56,2024-01-02,feature_x_demo,,19,2
+user_56,2024-01-03,feature_y_used,Feature X,133,3
+user_57,2024-01-01,feature_y_used,Feature Z,77,1
+user_57,2024-01-02,feedback_submitted,,231,2
+user_57,2024-01-03,feature_z_used,Feature Z,475,3
+user_57,2024-01-04,feature_x_demo,Feature X,119,4
+user_58,2024-01-01,onboarding_start,,451,1
+user_58,2024-01-02,feature_x_demo,Feature X,37,2
+user_58,2024-01-03,feature_z_used,Feature Y,579,3
+user_59,2024-01-01,subscription,,15,1
+user_59,2024-01-02,feature_y_used,Feature X,65,2
+user_59,2024-01-03,feedback_submitted,,460,3
+user_59,2024-01-04,onboarding_start,,463,4
+user_60,2024-01-01,signup,,132,1
+user_60,2024-01-02,feature_x_demo,Feature Y,320,2
+user_60,2024-01-03,feedback_submitted,,282,3
+user_60,2024-01-04,feature_z_used,Feature Y,68,4
+user_60,2024-01-05,subscription,,250,5
+user_60,2024-01-06,feature_y_used,Feature Z,403,6
+user_61,2024-01-01,feature_x_demo,,449,1
+user_61,2024-01-02,subscription,,117,2
+user_61,2024-01-03,feature_y_used,,436,3
+user_62,2024-01-01,feature_x_demo,Feature Y,449,1
+user_62,2024-01-02,signup,,461,2
+user_62,2024-01-03,feature_y_used,Feature X,322,3
+user_62,2024-01-04,feature_z_used,,263,4
+user_63,2024-01-01,feature_z_used,,152,1
+user_63,2024-01-02,subscription,,198,2
+user_63,2024-01-03,signup,,415,3
+user_63,2024-01-04,feature_x_demo,,344,4
+user_63,2024-01-05,onboarding_start,,522,5
+user_64,2024-01-01,feature_x_demo,,57,1
+user_64,2024-01-02,feature_y_used,Feature Z,125,2
+user_64,2024-01-03,signup,,197,3
+user_65,2024-01-01,onboarding_start,,209,1
+user_65,2024-01-02,feature_x_demo,Feature X,107,2
+user_65,2024-01-03,signup,,75,3
+user_65,2024-01-04,feature_z_used,Feature X,65,4
+user_65,2024-01-05,subscription,,417,5
+user_66,2024-01-01,feature_x_demo,Feature Y,527,1
+user_66,2024-01-02,subscription,,247,2
+user_66,2024-01-03,signup,,538,3
+user_66,2024-01-04,feedback_submitted,,360,4
+user_67,2024-01-01,feature_z_used,Feature Z,263,1
+user_67,2024-01-02,feature_y_used,,61,2
+user_67,2024-01-03,feature_x_demo,Feature Y,135,3
+user_67,2024-01-04,subscription,,228,4
+user_68,2024-01-01,feature_x_demo,,267,1
+user_68,2024-01-02,feature_y_used,Feature Z,317,2
+user_68,2024-01-03,feedback_submitted,,70,3
+user_68,2024-01-04,onboarding_start,,540,4
+user_68,2024-01-05,signup,,488,5
+user_69,2024-01-01,signup,,21,1
+user_69,2024-01-02,feature_y_used,Feature X,17,2
+user_69,2024-01-03,feature_x_demo,Feature Y,377,3
+user_69,2024-01-04,feedback_submitted,,522,4
+user_70,2024-01-01,onboarding_start,,499,1
+user_70,2024-01-02,feature_y_used,Feature Z,42,2
+user_70,2024-01-03,signup,,53,3
+user_70,2024-01-04,feature_z_used,Feature Y,287,4
+user_71,2024-01-01,feature_x_demo,Feature X,39,1
+user_71,2024-01-02,onboarding_start,,594,2
+user_71,2024-01-03,subscription,,408,3
+user_71,2024-01-04,feature_z_used,Feature X,81,4
+user_72,2024-01-01,feedback_submitted,,568,1
+user_72,2024-01-02,feature_z_used,,439,2
+user_72,2024-01-03,signup,,532,3
+user_72,2024-01-04,feature_x_demo,Feature Y,296,4
+user_73,2024-01-01,onboarding_start,,291,1
+user_73,2024-01-02,subscription,,596,2
+user_73,2024-01-03,feature_y_used,Feature Z,517,3
+user_73,2024-01-04,signup,,530,4
+user_73,2024-01-05,feedback_submitted,,364,5
+user_74,2024-01-01,onboarding_start,,557,1
+user_74,2024-01-02,feature_z_used,,54,2
+user_74,2024-01-03,feature_y_used,Feature Z,243,3
+user_74,2024-01-04,feature_x_demo,Feature Y,562,4
+user_75,2024-01-01,signup,,132,1
+user_75,2024-01-02,onboarding_start,,518,2
+user_75,2024-01-03,feature_z_used,Feature Y,588,3
+user_75,2024-01-04,feedback_submitted,,455,4
+user_76,2024-01-01,feature_z_used,,424,1
+user_76,2024-01-02,feedback_submitted,,132,2
+user_76,2024-01-03,feature_y_used,Feature Z,239,3
+user_76,2024-01-04,signup,,546,4
+user_76,2024-01-05,subscription,,127,5
+user_77,2024-01-01,feature_y_used,Feature Z,273,1
+user_77,2024-01-02,signup,,24,2
+user_77,2024-01-03,feature_x_demo,Feature Y,275,3
+user_78,2024-01-01,feedback_submitted,,343,1
+user_78,2024-01-02,feature_x_demo,,564,2
+user_78,2024-01-03,signup,,433,3
+user_78,2024-01-04,feature_y_used,,109,4
+user_78,2024-01-05,subscription,,595,5
+user_78,2024-01-06,feature_z_used,Feature Y,332,6
+user_79,2024-01-01,feature_y_used,,527,1
+user_79,2024-01-02,subscription,,310,2
+user_79,2024-01-03,feedback_submitted,,334,3
+user_79,2024-01-04,onboarding_start,,586,4
+user_80,2024-01-01,subscription,,179,1
+user_80,2024-01-02,feedback_submitted,,19,2
+user_80,2024-01-03,feature_y_used,Feature Y,393,3
+user_81,2024-01-01,feature_x_demo,,416,1
+user_81,2024-01-02,subscription,,310,2
+user_81,2024-01-03,onboarding_start,,309,3
+user_81,2024-01-04,feature_z_used,Feature Z,540,4
+user_82,2024-01-01,onboarding_start,,517,1
+user_82,2024-01-02,feature_x_demo,Feature Z,118,2
+user_82,2024-01-03,feature_y_used,Feature Y,53,3
+user_83,2024-01-01,feature_z_used,Feature X,303,1
+user_83,2024-01-02,signup,,492,2
+user_83,2024-01-03,feedback_submitted,,245,3
+user_83,2024-01-04,feature_y_used,Feature Y,434,4
+user_84,2024-01-01,onboarding_start,,268,1
+user_84,2024-01-02,subscription,,210,2
+user_84,2024-01-03,feature_y_used,Feature X,536,3
+user_85,2024-01-01,feedback_submitted,,230,1
+user_85,2024-01-02,subscription,,29,2
+user_85,2024-01-03,feature_y_used,Feature Z,171,3
+user_85,2024-01-04,feature_x_demo,,275,4
+user_85,2024-01-05,feature_z_used,,171,5
+user_86,2024-01-01,feature_y_used,Feature Y,297,1
+user_86,2024-01-02,signup,,83,2
+user_86,2024-01-03,subscription,,25,3
+user_87,2024-01-01,signup,,232,1
+user_87,2024-01-02,feature_y_used,,155,2
+user_87,2024-01-03,feature_x_demo,,224,3
+user_87,2024-01-04,feature_z_used,,474,4
+user_88,2024-01-01,feature_y_used,Feature X,65,1
+user_88,2024-01-02,feedback_submitted,,43,2
+user_88,2024-01-03,feature_x_demo,Feature Y,476,3
+user_88,2024-01-04,signup,,310,4
+user_88,2024-01-05,onboarding_start,,311,5
+user_88,2024-01-06,subscription,,421,6
+user_89,2024-01-01,subscription,,15,1
+user_89,2024-01-02,signup,,581,2
+user_89,2024-01-03,feature_x_demo,,385,3
+user_90,2024-01-01,feature_y_used,Feature Y,327,1
+user_90,2024-01-02,feature_x_demo,Feature Z,131,2
+user_90,2024-01-03,onboarding_start,,589,3
+user_90,2024-01-04,feedback_submitted,,258,4
+user_90,2024-01-05,subscription,,551,5
+user_91,2024-01-01,feature_y_used,Feature Y,193,1
+user_91,2024-01-02,signup,,196,2
+user_91,2024-01-03,feature_z_used,Feature X,39,3
+user_91,2024-01-04,feedback_submitted,,194,4
+user_92,2024-01-01,feedback_submitted,,170,1
+user_92,2024-01-02,onboarding_start,,483,2
+user_92,2024-01-03,feature_y_used,Feature Y,63,3
+user_92,2024-01-04,feature_x_demo,Feature Y,98,4
+user_92,2024-01-05,feature_z_used,,375,5
+user_92,2024-01-06,subscription,,162,6
+user_93,2024-01-01,feature_x_demo,Feature X,229,1
+user_93,2024-01-02,onboarding_start,,449,2
+user_93,2024-01-03,subscription,,332,3
+user_93,2024-01-04,feature_y_used,Feature X,46,4
+user_93,2024-01-05,feedback_submitted,,299,5
+user_94,2024-01-01,subscription,,189,1
+user_94,2024-01-02,feature_y_used,,208,2
+user_94,2024-01-03,feature_z_used,Feature X,516,3
+user_95,2024-01-01,feature_y_used,Feature X,69,1
+user_95,2024-01-02,onboarding_start,,472,2
+user_95,2024-01-03,signup,,176,3
+user_95,2024-01-04,feature_z_used,Feature Z,394,4
+user_96,2024-01-01,feedback_submitted,,457,1
+user_96,2024-01-02,feature_x_demo,Feature Z,342,2
+user_96,2024-01-03,signup,,68,3
+user_96,2024-01-04,subscription,,253,4
+user_96,2024-01-05,feature_z_used,Feature Z,243,5
+user_97,2024-01-01,signup,,134,1
+user_97,2024-01-02,feature_z_used,,505,2
+user_97,2024-01-03,feedback_submitted,,466,3
+user_98,2024-01-01,feature_y_used,,165,1
+user_98,2024-01-02,signup,,99,2
+user_98,2024-01-03,subscription,,161,3
+user_99,2024-01-01,signup,,537,1
+user_99,2024-01-02,subscription,,400,2
+user_99,2024-01-03,onboarding_start,,485,3
+user_100,2024-01-01,feedback_submitted,,240,1
+user_100,2024-01-02,feature_x_demo,,67,2
+user_100,2024-01-03,onboarding_start,,514,3
+user_100,2024-01-04,signup,,520,4
+user_100,2024-01-05,feature_z_used,Feature X,378,5
+user_101,2024-01-01,feature_y_used,Feature X,540,1
+user_101,2024-01-02,feature_z_used,Feature Z,535,2
+user_101,2024-01-03,subscription,,566,3
+user_101,2024-01-04,onboarding_start,,251,4
+user_102,2024-01-01,signup,,43,1
+user_102,2024-01-02,feature_z_used,Feature Y,123,2
+user_102,2024-01-03,feature_y_used,Feature Y,89,3
+user_103,2024-01-01,subscription,,31,1
+user_103,2024-01-02,feature_x_demo,Feature Y,167,2
+user_103,2024-01-03,feedback_submitted,,392,3
+user_103,2024-01-04,signup,,356,4
+user_103,2024-01-05,feature_y_used,Feature Z,41,5
+user_103,2024-01-06,onboarding_start,,301,6
+user_104,2024-01-01,subscription,,415,1
+user_104,2024-01-02,feature_x_demo,Feature X,490,2
+user_104,2024-01-03,feedback_submitted,,572,3
+user_104,2024-01-04,signup,,590,4
+user_104,2024-01-05,feature_z_used,Feature Z,144,5
+user_104,2024-01-06,feature_y_used,Feature X,377,6
+user_105,2024-01-01,feature_y_used,Feature Y,25,1
+user_105,2024-01-02,feedback_submitted,,526,2
+user_105,2024-01-03,subscription,,127,3
+user_105,2024-01-04,signup,,201,4
+user_105,2024-01-05,feature_z_used,Feature Z,241,5
+user_105,2024-01-06,onboarding_start,,324,6
+user_106,2024-01-01,feature_x_demo,Feature X,562,1
+user_106,2024-01-02,onboarding_start,,162,2
+user_106,2024-01-03,signup,,481,3
+user_106,2024-01-04,feature_y_used,Feature Y,258,4
+user_106,2024-01-05,feature_z_used,Feature Z,505,5
+user_107,2024-01-01,subscription,,87,1
+user_107,2024-01-02,feature_z_used,Feature X,310,2
+user_107,2024-01-03,feature_y_used,Feature X,31,3
+user_108,2024-01-01,feedback_submitted,,512,1
+user_108,2024-01-02,feature_z_used,,243,2
+user_108,2024-01-03,feature_y_used,Feature Z,122,3
+user_109,2024-01-01,feature_z_used,Feature Z,31,1
+user_109,2024-01-02,subscription,,344,2
+user_109,2024-01-03,signup,,583,3
+user_109,2024-01-04,feature_x_demo,,511,4
+user_110,2024-01-01,feature_y_used,,214,1
+user_110,2024-01-02,onboarding_start,,551,2
+user_110,2024-01-03,feedback_submitted,,480,3
+user_110,2024-01-04,subscription,,103,4
+user_111,2024-01-01,subscription,,302,1
+user_111,2024-01-02,feature_y_used,Feature Z,30,2
+user_111,2024-01-03,feedback_submitted,,415,3
+user_111,2024-01-04,feature_z_used,Feature Y,100,4
+user_111,2024-01-05,signup,,264,5
+user_112,2024-01-01,subscription,,491,1
+user_112,2024-01-02,feedback_submitted,,237,2
+user_112,2024-01-03,onboarding_start,,386,3
+user_112,2024-01-04,feature_y_used,Feature Y,416,4
+user_112,2024-01-05,feature_x_demo,Feature Z,457,5
+user_113,2024-01-01,subscription,,145,1
+user_113,2024-01-02,onboarding_start,,185,2
+user_113,2024-01-03,signup,,197,3
+user_114,2024-01-01,feature_x_demo,,411,1
+user_114,2024-01-02,feature_z_used,Feature Y,175,2
+user_114,2024-01-03,onboarding_start,,30,3
+user_114,2024-01-04,feedback_submitted,,507,4
+user_114,2024-01-05,subscription,,440,5
+user_115,2024-01-01,feedback_submitted,,155,1
+user_115,2024-01-02,signup,,288,2
+user_115,2024-01-03,feature_y_used,Feature Y,430,3
+user_115,2024-01-04,feature_z_used,,53,4
+user_116,2024-01-01,feature_x_demo,Feature X,286,1
+user_116,2024-01-02,feature_y_used,Feature Y,454,2
+user_116,2024-01-03,subscription,,253,3
+user_117,2024-01-01,feature_x_demo,Feature Y,17,1
+user_117,2024-01-02,feedback_submitted,,443,2
+user_117,2024-01-03,onboarding_start,,156,3
+user_117,2024-01-04,subscription,,390,4
+user_118,2024-01-01,feedback_submitted,,599,1
+user_118,2024-01-02,feature_x_demo,Feature Z,413,2
+user_118,2024-01-03,subscription,,358,3
+user_118,2024-01-04,signup,,154,4
+user_119,2024-01-01,feature_y_used,Feature Z,454,1
+user_119,2024-01-02,signup,,333,2
+user_119,2024-01-03,onboarding_start,,316,3
+user_119,2024-01-04,feature_x_demo,Feature Y,358,4
+user_120,2024-01-01,feedback_submitted,,589,1
+user_120,2024-01-02,subscription,,324,2
+user_120,2024-01-03,feature_x_demo,Feature X,257,3
+user_121,2024-01-01,feedback_submitted,,520,1
+user_121,2024-01-02,feature_y_used,Feature Z,273,2
+user_121,2024-01-03,feature_z_used,Feature Z,531,3
+user_121,2024-01-04,signup,,68,4
+user_122,2024-01-01,feature_z_used,Feature X,504,1
+user_122,2024-01-02,feedback_submitted,,433,2
+user_122,2024-01-03,subscription,,76,3
+user_123,2024-01-01,onboarding_start,,103,1
+user_123,2024-01-02,feedback_submitted,,343,2
+user_123,2024-01-03,signup,,594,3
+user_123,2024-01-04,feature_y_used,Feature Z,371,4
+user_123,2024-01-05,feature_z_used,,281,5
+user_123,2024-01-06,subscription,,337,6
+user_124,2024-01-01,feedback_submitted,,477,1
+user_124,2024-01-02,feature_z_used,Feature X,54,2
+user_124,2024-01-03,feature_y_used,Feature Z,551,3
+user_125,2024-01-01,feedback_submitted,,468,1
+user_125,2024-01-02,feature_z_used,Feature X,51,2
+user_125,2024-01-03,subscription,,330,3
+user_125,2024-01-04,signup,,128,4
+user_125,2024-01-05,feature_x_demo,,54,5
+user_126,2024-01-01,signup,,303,1
+user_126,2024-01-02,feature_y_used,,276,2
+user_126,2024-01-03,subscription,,230,3
+user_126,2024-01-04,feedback_submitted,,161,4
+user_127,2024-01-01,onboarding_start,,377,1
+user_127,2024-01-02,subscription,,571,2
+user_127,2024-01-03,feedback_submitted,,359,3
+user_127,2024-01-04,feature_z_used,Feature Z,184,4
+user_127,2024-01-05,feature_x_demo,Feature Y,370,5
+user_127,2024-01-06,signup,,205,6
+user_128,2024-01-01,feedback_submitted,,45,1
+user_128,2024-01-02,feature_y_used,Feature Y,549,2
+user_128,2024-01-03,onboarding_start,,440,3
+user_128,2024-01-04,signup,,408,4
+user_128,2024-01-05,feature_x_demo,Feature Z,377,5
+user_128,2024-01-06,feature_z_used,Feature Z,451,6
+user_129,2024-01-01,subscription,,238,1
+user_129,2024-01-02,feedback_submitted,,539,2
+user_129,2024-01-03,feature_x_demo,Feature X,60,3
+user_129,2024-01-04,signup,,127,4
+user_130,2024-01-01,feedback_submitted,,340,1
+user_130,2024-01-02,feature_x_demo,Feature Z,481,2
+user_130,2024-01-03,signup,,428,3
+user_131,2024-01-01,subscription,,51,1
+user_131,2024-01-02,feedback_submitted,,292,2
+user_131,2024-01-03,feature_x_demo,Feature Y,210,3
+user_131,2024-01-04,feature_z_used,,498,4
+user_132,2024-01-01,feature_x_demo,Feature Y,36,1
+user_132,2024-01-02,feature_z_used,,488,2
+user_132,2024-01-03,feedback_submitted,,134,3
+user_132,2024-01-04,onboarding_start,,224,4
+user_132,2024-01-05,subscription,,320,5
+user_133,2024-01-01,signup,,395,1
+user_133,2024-01-02,onboarding_start,,474,2
+user_133,2024-01-03,subscription,,21,3
+user_133,2024-01-04,feature_x_demo,Feature Y,43,4
+user_133,2024-01-05,feedback_submitted,,47,5
+user_134,2024-01-01,signup,,496,1
+user_134,2024-01-02,feature_y_used,Feature X,444,2
+user_134,2024-01-03,feature_z_used,Feature X,299,3
+user_134,2024-01-04,onboarding_start,,530,4
+user_134,2024-01-05,feedback_submitted,,113,5
+user_135,2024-01-01,feature_y_used,,98,1
+user_135,2024-01-02,signup,,36,2
+user_135,2024-01-03,onboarding_start,,473,3
+user_135,2024-01-04,feature_x_demo,,553,4
+user_135,2024-01-05,feedback_submitted,,396,5
+user_136,2024-01-01,feature_y_used,Feature Y,467,1
+user_136,2024-01-02,signup,,401,2
+user_136,2024-01-03,onboarding_start,,521,3
+user_136,2024-01-04,feature_x_demo,Feature X,271,4
+user_136,2024-01-05,feedback_submitted,,584,5
+user_136,2024-01-06,subscription,,541,6
+user_137,2024-01-01,feedback_submitted,,222,1
+user_137,2024-01-02,feature_z_used,Feature X,553,2
+user_137,2024-01-03,feature_x_demo,Feature X,598,3
+user_137,2024-01-04,onboarding_start,,74,4
+user_137,2024-01-05,feature_y_used,Feature X,444,5
+user_138,2024-01-01,feature_z_used,Feature Z,363,1
+user_138,2024-01-02,signup,,550,2
+user_138,2024-01-03,feedback_submitted,,392,3
+user_139,2024-01-01,feature_x_demo,,515,1
+user_139,2024-01-02,feature_y_used,Feature X,131,2
+user_139,2024-01-03,feature_z_used,Feature X,400,3
+user_139,2024-01-04,onboarding_start,,358,4
+user_139,2024-01-05,subscription,,598,5
+user_139,2024-01-06,signup,,409,6
+user_140,2024-01-01,feature_y_used,,180,1
+user_140,2024-01-02,signup,,558,2
+user_140,2024-01-03,feature_x_demo,Feature Z,25,3
+user_140,2024-01-04,subscription,,315,4
+user_140,2024-01-05,feedback_submitted,,116,5
+user_140,2024-01-06,onboarding_start,,439,6
+user_141,2024-01-01,subscription,,477,1
+user_141,2024-01-02,onboarding_start,,324,2
+user_141,2024-01-03,feature_z_used,,100,3
+user_141,2024-01-04,feature_y_used,Feature X,106,4
+user_142,2024-01-01,feedback_submitted,,130,1
+user_142,2024-01-02,feature_x_demo,Feature Z,117,2
+user_142,2024-01-03,feature_z_used,Feature Y,208,3
+user_142,2024-01-04,subscription,,180,4
+user_143,2024-01-01,signup,,319,1
+user_143,2024-01-02,feature_y_used,Feature Z,331,2
+user_143,2024-01-03,feature_x_demo,Feature Z,23,3
+user_143,2024-01-04,feature_z_used,,87,4
+user_144,2024-01-01,signup,,332,1
+user_144,2024-01-02,feature_x_demo,Feature Z,125,2
+user_144,2024-01-03,feature_z_used,Feature Z,265,3
+user_145,2024-01-01,feature_x_demo,,529,1
+user_145,2024-01-02,signup,,141,2
+user_145,2024-01-03,feedback_submitted,,28,3
+user_145,2024-01-04,feature_z_used,Feature X,26,4
+user_145,2024-01-05,onboarding_start,,101,5
+user_146,2024-01-01,signup,,370,1
+user_146,2024-01-02,subscription,,323,2
+user_146,2024-01-03,feature_y_used,Feature Z,302,3
+user_147,2024-01-01,feature_y_used,Feature Y,366,1
+user_147,2024-01-02,signup,,326,2
+user_147,2024-01-03,feature_z_used,Feature Z,73,3
+user_147,2024-01-04,feature_x_demo,Feature Z,49,4
+user_147,2024-01-05,subscription,,459,5
+user_147,2024-01-06,feedback_submitted,,107,6
+user_148,2024-01-01,feedback_submitted,,38,1
+user_148,2024-01-02,feature_x_demo,,418,2
+user_148,2024-01-03,feature_z_used,,530,3
+user_149,2024-01-01,feedback_submitted,,434,1
+user_149,2024-01-02,feature_z_used,,264,2
+user_149,2024-01-03,feature_x_demo,Feature Y,131,3
+user_149,2024-01-04,signup,,526,4
+user_150,2024-01-01,signup,,260,1
+user_150,2024-01-02,feature_z_used,Feature X,282,2
+user_150,2024-01-03,feedback_submitted,,251,3
+user_150,2024-01-04,feature_x_demo,Feature Z,544,4
+user_150,2024-01-05,subscription,,566,5
+user_151,2024-01-01,subscription,,312,1
+user_151,2024-01-02,signup,,540,2
+user_151,2024-01-03,feedback_submitted,,348,3
+user_152,2024-01-01,feature_y_used,,332,1
+user_152,2024-01-02,feature_x_demo,Feature Z,516,2
+user_152,2024-01-03,signup,,395,3
+user_152,2024-01-04,onboarding_start,,28,4
+user_153,2024-01-01,feedback_submitted,,42,1
+user_153,2024-01-02,subscription,,80,2
+user_153,2024-01-03,feature_z_used,Feature X,177,3
+user_154,2024-01-01,onboarding_start,,317,1
+user_154,2024-01-02,feature_x_demo,Feature Y,301,2
+user_154,2024-01-03,feedback_submitted,,409,3
+user_155,2024-01-01,feature_y_used,Feature X,375,1
+user_155,2024-01-02,feature_x_demo,,271,2
+user_155,2024-01-03,feature_z_used,Feature Y,147,3
+user_155,2024-01-04,signup,,290,4
+user_155,2024-01-05,onboarding_start,,527,5
+user_156,2024-01-01,onboarding_start,,218,1
+user_156,2024-01-02,subscription,,179,2
+user_156,2024-01-03,feature_z_used,Feature Z,319,3
+user_156,2024-01-04,feedback_submitted,,511,4
+user_156,2024-01-05,feature_x_demo,Feature Z,570,5
+user_156,2024-01-06,signup,,170,6
+user_157,2024-01-01,signup,,525,1
+user_157,2024-01-02,feedback_submitted,,307,2
+user_157,2024-01-03,onboarding_start,,34,3
+user_157,2024-01-04,subscription,,296,4
+user_158,2024-01-01,onboarding_start,,175,1
+user_158,2024-01-02,feature_y_used,Feature Y,220,2
+user_158,2024-01-03,feedback_submitted,,26,3
+user_159,2024-01-01,signup,,231,1
+user_159,2024-01-02,feature_y_used,Feature Z,320,2
+user_159,2024-01-03,feedback_submitted,,199,3
+user_159,2024-01-04,subscription,,53,4
+user_159,2024-01-05,feature_x_demo,Feature Z,237,5
+user_159,2024-01-06,onboarding_start,,198,6
+user_160,2024-01-01,feature_z_used,Feature Y,322,1
+user_160,2024-01-02,signup,,350,2
+user_160,2024-01-03,onboarding_start,,389,3
+user_160,2024-01-04,feature_x_demo,Feature X,22,4
+user_161,2024-01-01,feature_y_used,Feature Y,207,1
+user_161,2024-01-02,signup,,325,2
+user_161,2024-01-03,onboarding_start,,133,3
+user_162,2024-01-01,feature_x_demo,,317,1
+user_162,2024-01-02,feature_y_used,Feature Y,359,2
+user_162,2024-01-03,signup,,15,3
+user_162,2024-01-04,feature_z_used,Feature X,161,4
+user_162,2024-01-05,subscription,,301,5
+user_163,2024-01-01,feedback_submitted,,589,1
+user_163,2024-01-02,feature_x_demo,Feature X,599,2
+user_163,2024-01-03,feature_y_used,Feature Z,175,3
+user_163,2024-01-04,subscription,,103,4
+user_163,2024-01-05,onboarding_start,,599,5
+user_163,2024-01-06,signup,,173,6
+user_164,2024-01-01,signup,,496,1
+user_164,2024-01-02,feedback_submitted,,411,2
+user_164,2024-01-03,feature_x_demo,Feature Y,293,3
+user_164,2024-01-04,subscription,,379,4
+user_164,2024-01-05,feature_y_used,Feature Y,345,5
+user_164,2024-01-06,feature_z_used,Feature Z,358,6
+user_165,2024-01-01,subscription,,487,1
+user_165,2024-01-02,feedback_submitted,,431,2
+user_165,2024-01-03,feature_x_demo,,319,3
+user_166,2024-01-01,signup,,17,1
+user_166,2024-01-02,feature_z_used,,99,2
+user_166,2024-01-03,feedback_submitted,,342,3
+user_167,2024-01-01,feature_x_demo,Feature Z,26,1
+user_167,2024-01-02,subscription,,147,2
+user_167,2024-01-03,onboarding_start,,318,3
+user_167,2024-01-04,signup,,307,4
+user_168,2024-01-01,feature_z_used,Feature X,35,1
+user_168,2024-01-02,signup,,421,2
+user_168,2024-01-03,feedback_submitted,,350,3
+user_168,2024-01-04,subscription,,131,4
+user_168,2024-01-05,onboarding_start,,138,5
+user_168,2024-01-06,feature_x_demo,,413,6
+user_169,2024-01-01,subscription,,348,1
+user_169,2024-01-02,feedback_submitted,,387,2
+user_169,2024-01-03,onboarding_start,,578,3
+user_169,2024-01-04,signup,,508,4
+user_169,2024-01-05,feature_z_used,Feature X,553,5
+user_170,2024-01-01,signup,,16,1
+user_170,2024-01-02,feedback_submitted,,104,2
+user_170,2024-01-03,feature_z_used,Feature Z,359,3
+user_170,2024-01-04,subscription,,364,4
+user_170,2024-01-05,onboarding_start,,473,5
+user_171,2024-01-01,feedback_submitted,,326,1
+user_171,2024-01-02,signup,,255,2
+user_171,2024-01-03,subscription,,459,3
+user_171,2024-01-04,feature_x_demo,,312,4
+user_171,2024-01-05,feature_z_used,,50,5
+user_172,2024-01-01,feature_x_demo,Feature Y,573,1
+user_172,2024-01-02,onboarding_start,,155,2
+user_172,2024-01-03,feature_z_used,,132,3
+user_172,2024-01-04,feature_y_used,Feature X,291,4
+user_173,2024-01-01,feature_x_demo,Feature Z,598,1
+user_173,2024-01-02,feature_z_used,Feature X,166,2
+user_173,2024-01-03,feature_y_used,,63,3
+user_173,2024-01-04,subscription,,168,4
+user_174,2024-01-01,feature_z_used,Feature Z,160,1
+user_174,2024-01-02,signup,,453,2
+user_174,2024-01-03,onboarding_start,,256,3
+user_174,2024-01-04,subscription,,595,4
+user_175,2024-01-01,feature_z_used,,446,1
+user_175,2024-01-02,feedback_submitted,,433,2
+user_175,2024-01-03,subscription,,469,3
+user_176,2024-01-01,feature_x_demo,Feature X,334,1
+user_176,2024-01-02,subscription,,277,2
+user_176,2024-01-03,feature_y_used,Feature X,568,3
+user_176,2024-01-04,feedback_submitted,,388,4
+user_176,2024-01-05,feature_z_used,Feature Z,181,5
+user_177,2024-01-01,signup,,568,1
+user_177,2024-01-02,feature_z_used,,302,2
+user_177,2024-01-03,onboarding_start,,181,3
+user_177,2024-01-04,subscription,,50,4
+user_177,2024-01-05,feature_x_demo,Feature Z,367,5
+user_178,2024-01-01,onboarding_start,,531,1
+user_178,2024-01-02,feature_y_used,,442,2
+user_178,2024-01-03,feature_z_used,Feature X,553,3
+user_179,2024-01-01,feature_z_used,Feature Z,273,1
+user_179,2024-01-02,feature_y_used,Feature Y,356,2
+user_179,2024-01-03,signup,,144,3
+user_179,2024-01-04,subscription,,186,4
+user_179,2024-01-05,feature_x_demo,,223,5
+user_179,2024-01-06,onboarding_start,,368,6
+user_180,2024-01-01,feature_z_used,Feature Y,491,1
+user_180,2024-01-02,feature_x_demo,Feature X,301,2
+user_180,2024-01-03,signup,,317,3
+user_180,2024-01-04,subscription,,325,4
+user_180,2024-01-05,onboarding_start,,222,5
+user_180,2024-01-06,feature_y_used,Feature Z,460,6
+user_181,2024-01-01,feedback_submitted,,556,1
+user_181,2024-01-02,onboarding_start,,251,2
+user_181,2024-01-03,feature_x_demo,,293,3
+user_181,2024-01-04,feature_z_used,,362,4
+user_181,2024-01-05,subscription,,118,5
+user_181,2024-01-06,signup,,531,6
+user_182,2024-01-01,feature_x_demo,Feature Y,420,1
+user_182,2024-01-02,subscription,,470,2
+user_182,2024-01-03,feature_z_used,Feature X,175,3
+user_182,2024-01-04,onboarding_start,,474,4
+user_182,2024-01-05,feedback_submitted,,564,5
+user_182,2024-01-06,signup,,514,6
+user_183,2024-01-01,feature_x_demo,Feature Y,355,1
+user_183,2024-01-02,subscription,,463,2
+user_183,2024-01-03,feature_z_used,,194,3
+user_183,2024-01-04,feedback_submitted,,421,4
+user_184,2024-01-01,feature_y_used,Feature Y,356,1
+user_184,2024-01-02,signup,,330,2
+user_184,2024-01-03,feature_z_used,,115,3
+user_184,2024-01-04,onboarding_start,,258,4
+user_185,2024-01-01,feature_y_used,,230,1
+user_185,2024-01-02,feature_z_used,Feature Y,476,2
+user_185,2024-01-03,feature_x_demo,Feature X,148,3
+user_185,2024-01-04,subscription,,81,4
+user_185,2024-01-05,feedback_submitted,,21,5
+user_186,2024-01-01,feature_y_used,Feature Y,480,1
+user_186,2024-01-02,signup,,220,2
+user_186,2024-01-03,subscription,,280,3
+user_186,2024-01-04,feedback_submitted,,551,4
+user_186,2024-01-05,onboarding_start,,267,5
+user_187,2024-01-01,feature_z_used,Feature X,395,1
+user_187,2024-01-02,feature_x_demo,Feature Y,450,2
+user_187,2024-01-03,subscription,,497,3
+user_188,2024-01-01,feature_x_demo,Feature X,551,1
+user_188,2024-01-02,feedback_submitted,,93,2
+user_188,2024-01-03,signup,,594,3
+user_189,2024-01-01,signup,,461,1
+user_189,2024-01-02,feedback_submitted,,404,2
+user_189,2024-01-03,onboarding_start,,57,3
+user_189,2024-01-04,feature_x_demo,Feature Z,268,4
+user_189,2024-01-05,feature_z_used,Feature Z,144,5
+user_189,2024-01-06,subscription,,74,6
+user_190,2024-01-01,feedback_submitted,,396,1
+user_190,2024-01-02,signup,,267,2
+user_190,2024-01-03,feature_y_used,Feature Z,70,3
+user_190,2024-01-04,onboarding_start,,477,4
+user_190,2024-01-05,subscription,,471,5
+user_191,2024-01-01,feature_y_used,Feature X,277,1
+user_191,2024-01-02,feedback_submitted,,94,2
+user_191,2024-01-03,onboarding_start,,414,3
+user_191,2024-01-04,subscription,,274,4
+user_191,2024-01-05,feature_z_used,Feature X,566,5
+user_192,2024-01-01,feature_x_demo,Feature Z,77,1
+user_192,2024-01-02,signup,,499,2
+user_192,2024-01-03,onboarding_start,,588,3
+user_192,2024-01-04,feedback_submitted,,497,4
+user_192,2024-01-05,feature_z_used,,533,5
+user_193,2024-01-01,feature_x_demo,Feature Y,197,1
+user_193,2024-01-02,feature_y_used,Feature Y,400,2
+user_193,2024-01-03,signup,,588,3
+user_193,2024-01-04,onboarding_start,,419,4
+user_194,2024-01-01,subscription,,79,1
+user_194,2024-01-02,signup,,27,2
+user_194,2024-01-03,feature_x_demo,Feature X,227,3
+user_194,2024-01-04,feature_y_used,Feature X,256,4
+user_194,2024-01-05,feedback_submitted,,507,5
+user_195,2024-01-01,onboarding_start,,409,1
+user_195,2024-01-02,feedback_submitted,,322,2
+user_195,2024-01-03,feature_x_demo,,197,3
+user_195,2024-01-04,signup,,524,4
+user_196,2024-01-01,feature_z_used,Feature Y,450,1
+user_196,2024-01-02,signup,,436,2
+user_196,2024-01-03,feature_x_demo,Feature X,568,3
+user_196,2024-01-04,feedback_submitted,,35,4
+user_197,2024-01-01,feature_x_demo,Feature X,586,1
+user_197,2024-01-02,onboarding_start,,574,2
+user_197,2024-01-03,feature_y_used,Feature Y,43,3
+user_198,2024-01-01,subscription,,214,1
+user_198,2024-01-02,signup,,93,2
+user_198,2024-01-03,feature_x_demo,Feature X,187,3
+user_198,2024-01-04,feedback_submitted,,481,4
+user_199,2024-01-01,feature_x_demo,Feature Z,519,1
+user_199,2024-01-02,onboarding_start,,101,2
+user_199,2024-01-03,feedback_submitted,,57,3
+user_199,2024-01-04,subscription,,399,4
+user_199,2024-01-05,feature_z_used,,449,5
+user_199,2024-01-06,signup,,422,6
+user_200,2024-01-01,feature_x_demo,Feature Z,380,1
+user_200,2024-01-02,signup,,242,2
+user_200,2024-01-03,onboarding_start,,450,3
